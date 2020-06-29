@@ -19,14 +19,7 @@ Given the confirmed cases, for every day I take the number of cases, make a gaus
 <img src="/images/estimate.png">
 
 <img src="/images/rate of growth.png">
-
-(now stuff for my math class cause oh yeah woo hoo online classes so fun yeah woo hoo)* update, it's old, don't look at this shit right here
-
-I found the current rate of growth to be 0.9884451230091259/day in the US (as of whenever my data ends),
-
-If that exponential growth were to hold steady for whatever reason, in one month we'll have close to 900740 new cases
-
 ---
-[spronkoid](https://github.com/spronkoid)
+[spronkoid](https://twitter.com/spronkoid)
 
 :turtle:

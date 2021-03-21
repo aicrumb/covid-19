@@ -1,4 +1,4 @@
-# Estimating the Real amount of Covid-19 Cases using the Current Confirmed Cases
+# Estimating conception times of SARS-COV-2 cases
 
 Based on: [A video by CaryKH](https://www.youtube.com/watch?v=LnQcbAKWkPE)
 
